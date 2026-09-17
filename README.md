@@ -2,7 +2,7 @@
 
 GreenThread is an advanced, fully integrated ESP32 rover that drives around and analyzes soil and plants using a suite of environmental sensors and a lowering mechanism!
 
-https://github.com/harlinjanold-spec/GreenThread/blob/d11e5d44076d00ebc1df7a12ed7f55f8fbc96766/GreenThread%20rope%20rover%20idea.png?raw=true
+![GreenThread](https://github.com/harlinjanold-spec/GreenThread/blob/d11e5d44076d00ebc1df7a12ed7f55f8fbc96766/GreenThread%20rope%20rover%20idea.png?raw=true)
 
 ## Features
 - **PlantBot OS**: A beautifully animated graphical dashboard on an ST7735 1.8" TFT display.
