@@ -30,7 +30,7 @@ btn_style = {"font": ("Arial", 14, "bold"), "bg": "#3498db", "fg": "white", "act
 stop_style = {"font": ("Arial", 16, "bold"), "bg": "#e74c3c", "fg": "white", "activebackground": "#c0392b", "width": 13, "pady": 15}
 action_style = {"font": ("Arial", 12, "bold"), "bg": "#2ecc71", "fg": "white", "activebackground": "#27ae60", "width": 20, "pady": 5}
 
-title = tk.Label(root, text="🤖 PlantBot Remote UI", font=("Arial", 20, "bold"), bg="#2c3e50", fg="white", pady=20)
+title = tk.Label(root, text="🤖 GreenThread Remote UI", font=("Arial", 20, "bold"), bg="#2c3e50", fg="white", pady=20)
 title.pack()
 
 conn_text = f"Connected to {COM_PORT}" if ser else f"ERROR: Could not open {COM_PORT}"

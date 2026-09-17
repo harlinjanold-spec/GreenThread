@@ -1,6 +1,6 @@
-# 🤖 PlantBot - ESP32 Smart Rover
+# 🤖 GreenThread - ESP32 Smart Rover
 
-PlantBot is an advanced, fully integrated ESP32 rover that drives around and analyzes soil and plants using a suite of environmental sensors and a lowering mechanism!
+GreenThread is an advanced, fully integrated ESP32 rover that drives around and analyzes soil and plants using a suite of environmental sensors and a lowering mechanism!
 
 ## Features
 - **PlantBot OS**: A beautifully animated graphical dashboard on an ST7735 1.8" TFT display.

@@ -71,7 +71,7 @@ void drawDataUI() {
   tft.setCursor(10, 10);
   tft.setTextColor(ST77XX_GREEN);
   tft.setTextSize(2);
-  tft.println("PlantBot OS");
+  tft.println("GreenThread OS");
   tft.drawLine(0, 30, 160, 30, ST77XX_WHITE);
   
   tft.setTextSize(1);
@@ -258,7 +258,7 @@ void setup() {
   }
   
   updateTFTValues("Ready.");
-  Serial.println("PlantBot OS Ready!");
+  Serial.println("GreenThread OS Ready!");
 }
 
 void sendTelemetry() {
